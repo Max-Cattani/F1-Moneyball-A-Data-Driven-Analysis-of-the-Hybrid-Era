@@ -5,7 +5,7 @@ This folder contains the custom datasets built for the F1 Moneyball analysis.
 ### Custom Datasets (Included)
 * `f1_budget_2014-2025.csv`: Estimated team budgets. For the full methodology and sources of these financial data, please refer to my dedicated repository: https://github.com/Max-Cattani/f1-budget-hybrid-era.
 * `DHL_pit_stop.csv`: Aggregated pit stop scores.
-* `df_full_teamyear.csv`: The final panel dataset used for the analysis.
+* `df_full.csv`: The final panel dataset used for the analysis.
 
 ### Raw Datasets (Not Included)
 Due to file size limits and best practices, the raw F1 race data are not uploaded in this repository. 
