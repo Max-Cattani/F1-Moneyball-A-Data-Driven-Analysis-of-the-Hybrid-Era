@@ -1,0 +1,14 @@
+Ignore raw Kaggle datasets to avoid large file uploads
+data/results_2024.csv
+data/races_2024.csv
+data/constructors_2024.csv
+data/drivers_2024.csv
+
+Ignore R history and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+Ignore OS generated files
+.DS_Store
+Thumbs.db
