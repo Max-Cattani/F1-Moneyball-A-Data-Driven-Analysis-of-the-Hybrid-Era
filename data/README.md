@@ -1,4 +1,4 @@
-## RAW FINANCIAL SOURCE
+## RAW FINANCIAL SOURCES
 
 In case of any figure verification, check https://github.com/Max-Cattani/f1-budget-hybrid-era 
 
